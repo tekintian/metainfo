@@ -1,2 +1,2 @@
-github.com/tekintian/bencode v0.0.0-20220626085045-ca639a470c22 h1:3+mRB2sMbpphXi68eumU2n7fPQOgM5/m1bOIzf48JsY=
-github.com/tekintian/bencode v0.0.0-20220626085045-ca639a470c22/go.mod h1:wvvMGkEFfwbUhDw67RBIfIi4Ey1dBnsy0PFpWTy+hA0=
+github.com/tekintian/bencode v1.0.0 h1:jtNCAUN58Dd76LNu62qgVyCCBF1R1/jSyos1/7/zevo=
+github.com/tekintian/bencode v1.0.0/go.mod h1:wvvMGkEFfwbUhDw67RBIfIi4Ey1dBnsy0PFpWTy+hA0=
